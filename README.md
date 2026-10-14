@@ -7,7 +7,7 @@
   </a>
 </div>
 
-<p>
+<p align="center">
   <a href="https://cosylsine.github.io/"><img src="assets/homepage.svg" alt="Personal homepage" width="112" height="30"></a>
   &nbsp;
   <a href="mailto:jiaxinxu1357@gmail.com"><img src="assets/email.svg" alt="Email: jiaxinxu1357@gmail.com" width="86" height="30"></a>
