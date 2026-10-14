@@ -1,7 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/welcome-dark.svg">
-  <img src="assets/welcome-light.svg" alt="Hi, I'm Jiaxin Xu — cosylsine." width="720">
-</picture>
+<div align="center">
+  <a href="https://cosylsine.github.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/typing-dark.svg">
+      <img src="assets/typing-light.svg" alt="Retrieve better. Reason further." width="540">
+    </picture>
+  </a>
+</div>
 
 <p>
   <a href="https://cosylsine.github.io/"><img src="assets/homepage.svg" alt="Personal homepage" width="112" height="30"></a>
