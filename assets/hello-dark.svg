@@ -8,8 +8,8 @@
     @keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
     @media (prefers-reduced-motion: reduce) { .cursor, .wave { animation: none; } }
   </style>
-  <text x="0" y="68" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="650" letter-spacing="-.8">Hi, I'm Jiaxin Xu.</text>
-  <path class="cursor" d="M332 35V72" stroke="#79c0ff" stroke-width="3"/>
+  <text x="0" y="72" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="52" font-weight="650" letter-spacing="-.8">Hi, I'm Jiaxin Xu.</text>
+  <path class="cursor" d="M395 30V78" stroke="#79c0ff" stroke-width="3"/>
   <path d="M425 57H706" fill="none" stroke="#3d444d" stroke-width="1"/>
   <path class="wave" d="M425 29C460 29 460 85 495 85S530 29 565 29S600 85 635 85S670 29 705 29" pathLength="1" fill="none" stroke="#79c0ff" stroke-width="3" stroke-linecap="round"/>
 </svg>

@@ -1,6 +1,4 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hello-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/hello-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hello-dark.svg">
   <img src="assets/hello-light.svg" alt="Hi, I'm Jiaxin Xu — cosylsine." width="720">
 </picture>
